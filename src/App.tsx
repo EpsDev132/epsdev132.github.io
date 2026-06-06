@@ -175,7 +175,7 @@ export default function App() {
         {/* Custom Uploaded Logo slightly larger */}
         <div className="flex items-center gap-3.5">
           <img 
-            src="/logo.png" 
+            src="logo.png" 
             alt="B-Bandages" 
             className="w-12 h-12 object-contain select-none shrink-0" 
             referrerPolicy="no-referrer"
