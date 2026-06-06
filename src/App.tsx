@@ -232,7 +232,7 @@ export default function App() {
           <div className="space-y-2 text-center md:text-left">
             <h2 className={TYPOGRAPHY_SIZES.heroTitle.className}>
               {activeMenuTab === "catalog" ? (
-                <span>Коллекция дизайнерских <span className="underline decoration-blue-400 decoration-wavy underline-offset-4">повязок и бандан</span></span>
+                <span>Коллекция дизайнерских <span className="underline decoration-blue-400 decoration-wavy underline-offset-4">аксессуаров</span></span>
               ) : (
                 <span>Удобный интерактивный <span className="underline decoration-blue-400 decoration-wavy underline-offset-4">конструктор скинов</span></span>
               )}
