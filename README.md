@@ -1,11 +1,11 @@
 # 🎮 N-bandages
 ## Утилита для редактирования скина путём наложения аксессуаров, проект направлен на майнкрафт-сервер N-server
 
-https://img.shields.io/badge/%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8F-1.0.0-blue
-https://img.shields.io/badge/%D0%BB%D0%B8%D1%86%D0%B5%D0%BD%D0%B7%D0%B8%D1%8F-MIT-green
-https://img.shields.io/badge/%F0%9F%A4%96-%D1%81_%D0%BF%D0%BE%D0%BC%D0%BE%D1%89%D1%8C%D1%8E_ML-orange
+!https://img.shields.io/badge/%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8F-1.0.0-blue
+!https://img.shields.io/badge/%D0%BB%D0%B8%D1%86%D0%B5%D0%BD%D0%B7%D0%B8%D1%8F-MIT-green
+!https://img.shields.io/badge/%F0%9F%A4%96-%D1%81_%D0%BF%D0%BE%D0%BC%D0%BE%D1%89%D1%8C%D1%8E_ML-orange
 
-##✨ Основные преимущества и особенности
+## ✨ Основные преимущества и особенности
 🎭 По-умному накладывает аксессуары, которые можно выбрать в каталоге.
 🔗 Выдаёт прямую ссылку на готовый скин
 ⚡ Мгновенный результат без потери качества
