@@ -9,22 +9,22 @@ export const APP_TEXTS = {
   logoSubTitle: "Minecraft Bandages Studio",
   
   // Navigation Menus
-  navCatalog: "Каталог повязок",
-  navDesigner: "Конструктор примерок",
+  navCatalog: "Повязки",
+  navDesigner: "Соединение",
   
   // Main Hero Sections
-  heroCatalogTitle: "Коллекция дизайнерских повязок и бандан",
+  heroCatalogTitle: "Коллекция аксессуаров",
   heroDesignerTitle: "Удобный интерактивный конструктор скинов",
   heroDesc: "Выбирайте из множества аксессуаров в каталоге, загружайте собственный скин и мгновенно получайте готовый майнкрафт-скин в самом лучшем виде!",
   
   // Catalog View Info
-  catalogSectionTitle: "Каталог скинодекора",
-  catalogSectionDesc: "Выберите повязку из списка ниже для добавления на ваш макет скина.",
+  catalogSectionTitle: "Каталог аксессуаров",
+  catalogSectionDesc: "Выберите повязку из списка ниже для добавления на ваш скин.",
   catalogFilterAll: "Все",
   noItemsInCategory: "В данной категории повязок пока нет.",
   
   // Sticky Applied Bandage Sheet/Banner
-  bannerAppliedTitle: "Выбран бандаж",
+  bannerAppliedTitle: "Выбран аксессуар",
   bannerAppliedDesc: "Он готов к примерке в дизайнере и слиянию с вашим скином.",
   bannerReset: "Сбросить",
   bannerGoToDesigner: "Перейти в конструктор ➔",
@@ -32,7 +32,7 @@ export const APP_TEXTS = {
   // Designer View Panels
   uploadSkinTitle: "Загрузка скина",
   uploadSkinInputTitle: "Импортировать свой скин (.PNG)",
-  uploadSkinInputSub: "64x64 или 64x32 пиксельный скин",
+  uploadSkinInputSub: "64x64 пиксельный скин",
   skinStatusLabel: "Текущее состояние базы:",
   skinTypeLabel: "Тип основного скина:",
   skinTypeDefault: "Стандартный Стив",
@@ -40,10 +40,10 @@ export const APP_TEXTS = {
   fileLabel: "Файл:",
   btnResetSkin: "Сбросить",
   previewSectionTitle: "Превью скина",
-  preview3DTitle: "3D Интерактивное-Превью",
-  preview2DTitle: "2D Характер-Превью",
+  preview3DTitle: "3D Превью",
+  preview2DTitle: "2D Превью",
   
-  bandageStatusLabel: "Повязка:",
+  bandageStatusLabel: "Аксессуар:",
   bandageNotSelected: "Не выбрана",
   bandageActionRemove: "Снять",
   bandageActionSelect: "Выбрать в каталоге",
