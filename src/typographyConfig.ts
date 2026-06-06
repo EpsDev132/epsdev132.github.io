@@ -58,7 +58,7 @@ export const APP_TEXTS = {
   exportInfoFooter: "Файл полностью готов к загрузке в любой Minecraft лаунчер или сервер.",
   
   // Simplified Footer Options
-  footerCopyright: `B-Bandages • ${new Date().getFullYear()}`
+  footerCopyright: `B-Bandages • ${new Date().getFullYear()}. Попробуйте также https://t.me/nbandages`
 };
 
 // Explicit point sizes configured for every single title, subtitle, and menu component
