@@ -1,0 +1,6 @@
+{
+  "name": "B-Bandages",
+  "description": "Стильный каталог повязок и интерактивный конструктор наложения аксессуаров на скины Minecraft.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
