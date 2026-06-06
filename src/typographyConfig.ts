@@ -52,7 +52,7 @@ export const APP_TEXTS = {
   btnGetDirectLink: "Прямая ссылка",
   btnGetDirectLinkLoading: "Загрузка...",
   directLinkLabel: "Прямая ссылка на скин (.PNG)",
-  directLinkDesc: "Ссылка полностью прямая и ведет на готовый PNG-файл для Minecraft-лаунчеров.",
+  directLinkDesc: "На сервере пропишите /skin set (ссылка)",
   btnCopy: "Копировать",
   btnCopied: "Скопировано!",
   exportInfoFooter: "Файл полностью готов к загрузке в любой Minecraft лаунчер или сервер.",
@@ -65,17 +65,17 @@ export const APP_TEXTS = {
 export const TYPOGRAPHY_SIZES = {
   // Main Header Logo
   logoMainTitle: {
-    pt: 15,
+    pt: 17,
     className: "text-lg sm:text-xl font-bold tracking-tight text-slate-900"
   },
   logoSubTitle: {
-    pt: 7.5,
+    pt: 8.5,
     className: "text-[10px] text-slate-400 font-mono tracking-widest uppercase"
   },
   
   // Main Navigation links
   navItem: {
-    pt: 10.5,
+    pt: 11.5,
     className: "text-xs sm:text-sm font-semibold tracking-wider font-mono uppercase"
   },
   
@@ -85,27 +85,27 @@ export const TYPOGRAPHY_SIZES = {
     className: "text-xl sm:text-3xl font-extrabold tracking-tight text-slate-900 leading-tight"
   },
   heroDesc: {
-    pt: 10.5,
+    pt: 11.5,
     className: "text-slate-500 text-xs sm:text-sm max-w-2xl leading-relaxed"
   },
   
   // Subsections titles
   sectionTitle: {
-    pt: 13.5,
+    pt: 14.5,
     className: "font-bold text-slate-800 text-xs sm:text-sm uppercase tracking-widest font-mono"
   },
   sectionDesc: {
-    pt: 9,
+    pt: 10,
     className: "text-xs text-slate-500"
   },
   
   // Interactive widget state info / details
   metaLabel: {
-    pt: 7.5,
+    pt: 10.5,
     className: "text-[10px] font-bold text-slate-400 uppercase tracking-widest font-mono"
   },
   metaValue: {
-    pt: 8.25,
+    pt: 10.25,
     className: "text-[11px] font-semibold font-mono"
   },
   
